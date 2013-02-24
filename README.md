@@ -1,4 +1,6 @@
-     _     _           _
+This branch of skwp/dotfiles customizes it to my own liking.
+
+_     _           _
     | |   | |         | |
     | |___| |_____  __| | ____
     |_____  (____ |/ _  |/ ___)
