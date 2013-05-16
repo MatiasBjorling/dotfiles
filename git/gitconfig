@@ -117,3 +117,11 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	name = Matias Bjørling
+	email = m@bjorling.me
+[sendemail]
+	smtpserver = smtp.gmail.com
+	smtpserverport = 587
+	smtpencryption = tls
+	smtpuser = m@bjorling.me
