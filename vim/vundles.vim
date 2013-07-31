@@ -58,7 +58,7 @@ Bundle "tpope/vim-git"
 " General text editing improvements...
 Bundle "AndrewRadev/splitjoin.vim"
 Bundle "Raimondi/delimitMate"
-Bundle "Shougo/neocomplcache.git"
+"Bundle "Shougo/neocomplcache.git"
 Bundle "briandoll/change-inside-surroundings.vim.git"
 Bundle "garbas/vim-snipmate.git"
 Bundle "godlygeek/tabular"
@@ -126,6 +126,7 @@ Bundle "bogado/file-line.git"
 
 " Own plugins
 Bundle "vim-scripts/CCTree.git"
+Bundle "Valloric/YouCompleteMe.git"
 
 " Customization
 " The plugins listed in ~/.vim/.vundles.local will be added here to
